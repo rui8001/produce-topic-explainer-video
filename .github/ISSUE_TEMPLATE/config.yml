@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sensitive security report
+    url: https://github.com/rui8001/produce-topic-explainer-video/security/advisories/new
+    about: Report credentials, private data, or other sensitive issues privately.

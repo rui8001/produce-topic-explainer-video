@@ -1,0 +1,18 @@
+name: Feature request
+description: Suggest an improvement to the reusable production method
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: gap
+    attributes:
+      label: Production gap
+      description: Which topic-video problem should this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true

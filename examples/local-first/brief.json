@@ -1,0 +1,26 @@
+{
+  "topic": "为什么“本地优先”软件重新流行？",
+  "audience": "经常使用云端笔记和协作工具、但不了解本地优先概念的普通用户",
+  "platform": "vertical_short_video",
+  "target_duration_seconds": 90,
+  "promise": "观众能说出本地优先与单纯离线缓存的差别，并知道选择工具时应检查哪三件事",
+  "opening_conflict": "资料明明属于你，断网后却可能打不开，换工具时也很难带走。",
+  "required_points": [
+    "本地副本是否是主要工作副本",
+    "多设备合并与冲突处理",
+    "可导出性、数据所有权与协作之间的权衡"
+  ],
+  "evidence_plan": [
+    {
+      "claim": "本地优先是一组设计原则，不等于给云端产品增加离线缓存。",
+      "source_status": "needs_primary_source"
+    }
+  ],
+  "prohibited_claims": [
+    "本地优先永远比云端安全",
+    "任何具体产品都完全不会丢失数据"
+  ],
+  "visual_roles": ["persona", "evidence", "model"],
+  "ending_action": "下次选择工具时，检查无网能否完整工作、数据能否标准格式导出，以及冲突如何处理。",
+  "publication_authorized": false
+}

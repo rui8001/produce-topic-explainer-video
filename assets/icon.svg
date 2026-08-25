@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Topic explainer video icon">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#ea580c"/></linearGradient></defs>
+  <rect width="256" height="256" rx="58" fill="url(#g)"/>
+  <path d="M62 67h93c22 0 40 18 40 40v15c0 22-18 40-40 40h-31l-35 29 8-29H62c-22 0-40-18-40-40v-15c0-22 18-40 40-40Z" fill="#fff" opacity=".95"/>
+  <circle cx="73" cy="114" r="10" fill="#7c3aed"/><circle cx="108" cy="114" r="10" fill="#7c3aed"/><circle cx="143" cy="114" r="10" fill="#ea580c"/>
+  <path d="m171 176 38-23v46z" fill="#fff"/>
+</svg>
