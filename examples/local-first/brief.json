@@ -1,5 +1,5 @@
 {
-  "topic": "为什么“本地优先”软件重新流行？",
+  "topic": "选择本地优先软件时，应检查什么？",
   "audience": "经常使用云端笔记和协作工具、但不了解本地优先概念的普通用户",
   "platform": "vertical_short_video",
   "target_duration_seconds": 90,
@@ -13,7 +13,9 @@
   "evidence_plan": [
     {
       "claim": "本地优先是一组设计原则，不等于给云端产品增加离线缓存。",
-      "source_status": "needs_primary_source"
+      "source_status": "verified_primary_source",
+      "source_id": "S1",
+      "source_ledger": "source-ledger.json"
     }
   ],
   "prohibited_claims": [

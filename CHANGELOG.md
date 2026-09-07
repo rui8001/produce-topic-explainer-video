@@ -1,5 +1,10 @@
 # Changelog
 
+## [Unreleased]
+
+- Add repository quality CI for Skill metadata, public text, examples and local links.
+- Expand the local-first example into source-checked pre-audio planning artifacts, with a deterministic cross-reference check and explicit unfinished media gates.
+
 ## [0.1.0] - 2026-08-25
 
 ### Added
