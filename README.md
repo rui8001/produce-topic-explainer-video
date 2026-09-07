@@ -76,7 +76,7 @@ $produce-topic-explainer-video 为什么“本地优先”软件重新流行？�
 
 ### 3. 看公开示例
 
-[“本地优先”示例简报](./examples/local-first/brief.json) 展示了怎样从一句话补全受众、承诺、证据与禁用说法；[示例说明](./examples/local-first/README.md) 解释每个字段的作用。
+[“本地优先”完整规划示例](./examples/local-first/README.md) 展示从简报到来源核验、口播、视觉计划、生产状态和 QC 记录的过程；音频与成片阶段明确保留为待完成。
 
 ## Skill 如何工作
 

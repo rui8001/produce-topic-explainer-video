@@ -1,0 +1,10 @@
+{
+  "question": "断网后还能继续写吗？",
+  "device": "设备上的数据副本",
+  "sync": "联网同步",
+  "conflict": "两个值，如何处理？",
+  "synthetic": "合成示意",
+  "offline": "离线编辑",
+  "export": "导出后重开",
+  "resolve": "理解冲突结果"
+}

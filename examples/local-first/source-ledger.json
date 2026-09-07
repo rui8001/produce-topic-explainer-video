@@ -1,0 +1,7 @@
+{
+  "checked_on": "2026-09-07",
+  "sources": [
+    {"id": "S1", "url": "https://www.inkandswitch.com/essay/local-first/", "title": "Local-first software (2019)", "supports": "Local device as primary data copy; optional network; local-first design principles", "does_not_support": "Current market growth, universal security claims, or guarantees about a specific product"},
+    {"id": "S2", "url": "https://automerge.org/docs/reference/documents/conflicts/", "title": "Automerge: Conflicts", "supports": "Concurrent property changes can retain conflicting values", "does_not_support": "All local-first applications use Automerge or eliminate semantic disagreements"}
+  ]
+}

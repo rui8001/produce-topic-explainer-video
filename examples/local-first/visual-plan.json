@@ -1,0 +1,9 @@
+{
+  "timing_state": "awaiting_accepted_audio",
+  "shots": [
+    {"id": "shot-01", "paragraph": 1, "role": "persona", "source_ids": [], "visual": "Self-authored presenter card poses a test; no product interface is imitated", "copy_ids": ["question"]},
+    {"id": "shot-02", "paragraph": 2, "role": "model", "source_ids": ["S1"], "visual": "Two original device boxes and a sync arrow; local document remains visible as network arrow fades", "copy_ids": ["device", "sync"]},
+    {"id": "shot-03", "paragraph": 3, "role": "evidence", "source_ids": ["S2"], "visual": "Source title/link next to a labeled synthetic two-value conflict, not a screenshot", "copy_ids": ["conflict", "synthetic"]},
+    {"id": "shot-04", "paragraph": 4, "role": "model", "source_ids": [], "visual": "Three check cards appear as the final decision rule is spoken", "copy_ids": ["offline", "export", "resolve"]}
+  ]
+}
