@@ -2,6 +2,7 @@
 
 This is a reproducible pre-audio planning example, not a finished video or user testimonial.
 
+- Stage: pre_audio_planning
 - Completed: brief, primary-source ledger, four-paragraph spoken script, semantic visual plan, on-screen-copy whitelist, deterministic artifact verification.
 - Locked: public facts are limited to the two sources; no claim of renewed market popularity is made.
 - Pending: accepted continuous narration, real alignment, caption timing, representative sample approval, rendering and visual QC.
