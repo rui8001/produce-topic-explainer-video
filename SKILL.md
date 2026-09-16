@@ -1,6 +1,6 @@
 ---
 name: produce-topic-explainer-video
-description: Turn an arbitrary topic into a source-checked Chinese vertical explainer video using a repeatable research, script, continuous-voice, persona/evidence/model visual, motion, sample-review, and frame-level QC workflow. Use when the user gives a topic and asks to make a knowledge video by this method; do not use for classroom lessons whose primary success criterion is learner assessment or for reference-footage remixing.
+description: Create, resume, or revise a source-checked Chinese vertical explainer video from a topic. Use for a requested knowledge video; classroom learner assessment and reference-footage remixing use their own workflows.
 ---
 
 # Produce Topic Explainer Video
@@ -34,6 +34,8 @@ Write for spoken delivery: concrete, confident, and free of template-like “fir
 
 Generate or import the narration as one continuous piece, then align captions from the accepted audio. Plan shots by semantic phrase rather than punctuation. Every long shot must change meaningfully at narration nodes; background loops and breathing motion do not count.
 
-Build a sample up to 60 seconds that includes all active visual roles and a real transition. Final rendering requires recorded sample approval. Publication is always separate authorization.
+For initial production or a changed visual direction, build a sample up to 60 seconds with all active visual roles and a real transition. Before final rendering, record the sample version, technical QC, approver, and authorization scope. Honor any valid series authorization without asking again for the same scope; agent QC does not substitute for required user approval. Publication remains separate authorization.
+
+For a localized revision, read the episode status and affected reference sections, retain valid upstream artifacts and approvals, and preview the changed interval plus adjacent transitions. Reopen only invalidated checkpoints and run affected final QC, including subtitle boundaries when captions or timing change.
 
 Update the status after each stage with locks, sources, checks, missing assets, authorization, next action, and rollback. Keep private production files outside the installed Skill.
